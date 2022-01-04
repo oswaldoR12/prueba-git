@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/imporprevenauto/public_html/prueba_git
+    - export DEPLOYPATH=/home/imporprevenauto/public_html/Flota-Pesada
     - /bin/cp -R * $DEPLOYPATH
     
