@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/imporprevenauto/public_html/prueba_git
+    - /bin/cp -R * $DEPLOYPATH
+    
